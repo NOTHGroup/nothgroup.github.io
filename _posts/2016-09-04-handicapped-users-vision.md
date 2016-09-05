@@ -5,4 +5,4 @@ date:   2016-09-04 17:13:00 +0000
 categories: handicapped-users vision
 ---
 
-![Handicapped users Vision](../handicap-vision.jpg)
+![Handicapped users Vision](/handicap-vision.jpg)
