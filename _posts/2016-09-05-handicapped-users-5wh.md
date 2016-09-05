@@ -2,7 +2,7 @@
 layout: post
 title:  "Handicapped users: 5W + H"
 date:   2016-09-04 14:13:00 +0000
-categories: dyslexic-users 5w+h
+categories: handicapped-users 5w+h
 ---
 
 ## 5W + H
