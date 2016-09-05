@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Autistic Children: Scenarios"
+title:  "Dyslexic Users: Scenarios"
 date:   2016-09-05 13:33:00 +0000
 categories: dyslexic-users scenarios
 ---
