@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "George Specter: A Persona Description"
-date:   2016-09-05 15:53:59 +0000
+date:   2016-09-04 15:53:59 +0000
 categories: persona-description dyslexic-users
 ---
 
