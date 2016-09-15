@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Impaired vision users: 5W + H"
-date:   2016-09-04 20:13:00 +0000
+date:   2016-09-07 20:13:00 +0000
 categories: impaired-vision-users 5w+h
 ---
 
