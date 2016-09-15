@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Handicapped Users User Group Description"
-date:   2016-09-04 14:53:59 +0000
+date:   2016-09-03 14:53:59 +0000
 categories: user-groups
 ---
 
