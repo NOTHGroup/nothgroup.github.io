@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tom Rowley: A Persona Description"
-date:   2016-09-03 15:53:59 +0000
+date:   2016-09-04 15:53:59 +0000
 categories: persona-description autistic-children
 ---
 
