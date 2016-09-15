@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dyslexic Users Group Description"
-date:   2016-09-05 13:53:59 +0000
+date:   2016-09-03 13:53:59 +0000
 categories: user-groups
 ---
 
