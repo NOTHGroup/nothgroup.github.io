@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Impaired users User Group Description"
-date:   2016-09-15 14:38:59 +0000
+date:   2016-09-3 14:38:59 +0000
 categories: user-groups
 ---
 
