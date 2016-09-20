@@ -6,9 +6,7 @@ permalink: /Projects/
 
 <div class="home">
 
-  <h1 class="page-heading">Project 2</h1>
-
-  <h2>Presenting The Visions</h2>
+  <h1 class="page-heading">Project 2 - Presenting The Visions</h1>
   
   <ul class="post-list">
       {% for post in site.posts %}
@@ -17,5 +15,25 @@ permalink: /Projects/
       {% endif %}
     {% endfor %}
   </ul>
+
+<h1 class="page-heading">Project 2 - Contextual Interviews</h1>
+
+<ul class="post-list">
+    {% for post in site.posts %}
+        {% if post.categories contains 'project2' and post.categories contains 'contextual_interviews' %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h1 class="page-heading">Project 2 -  Competitive Software</h1>
+
+<ul class="post-list">
+    {% for post in site.posts %}
+        {% if post.categories contains 'project2' and post.categories contains 'competitors' %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 </div>
