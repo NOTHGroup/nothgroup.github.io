@@ -11,7 +11,7 @@ permalink: /Projects/
   <ul class="post-list">
       {% for post in site.posts %}
           {% if post.categories contains 'project2' and post.categories contains 'vision' %}
-          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+          <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
   </ul>
@@ -21,7 +21,7 @@ permalink: /Projects/
 <ul class="post-list">
     {% for post in site.posts %}
         {% if post.categories contains 'project2' and post.categories contains 'contextual_interviews' %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
@@ -31,7 +31,7 @@ permalink: /Projects/
 <ul class="post-list">
     {% for post in site.posts %}
         {% if post.categories contains 'project2' and post.categories contains 'competitors' %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
