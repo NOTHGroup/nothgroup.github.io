@@ -31,3 +31,14 @@ The programmer finished the program and reading other codes in 30 minutes.
 We then started discussing the Reformer project again and the programmer gave us feedback about the design. 
 After our discussion we started wrapping up the interview by recapping the information we had gathered and 
 thanking the programmer for the interview.
+
+### Interview 3
+
+We sat down with Randver's family member, his fifteen year old sister that is dyslexic and asked her to do a little test for us.
+We introduced our team, and our goal of helping dyslexic people read with a simple chrome addon by replacing text on web pages with a better formatted text.
+We took two articles that were of similar difficulty and made her read one without any help, and then quizzed her from that article. 
+Also we took the time it took her too read it.
+Next up we introduced our competitive software, OpenDyslexic and used that on the second article and quizzed her again and also timed her reading.
+Results were pretty good, because it took her 17% shorter time to read the second article and she scored 20% better on the quiz.
+We then asked her if there was anything she could think about that would make it better, and talked about the project for a while. 
+After the discussion we wrapped up and thanked her for participating.
