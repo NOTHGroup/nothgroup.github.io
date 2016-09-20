@@ -33,6 +33,6 @@ The Camera Mouse is a free software that allows the person control the mouse poi
 
 
 ### Further Information
-*** Todo find link ***
-[Chrome Store link](https://chrome.google.com/webstore/detail/opendyslexic/cdnapgfjopgaggbmfgbiinmmbdcglnam)
+
+[Competitor link](http://www.cameramouse.org/)
 
