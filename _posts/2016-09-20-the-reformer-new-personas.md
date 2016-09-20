@@ -12,3 +12,5 @@ To help us better understand our user's needs for the Reformer we created four n
 
 1. [Sigurpáll Baldursson](https://app.xtensio.com/folio/qd0if1kd)
 2. [Guðmundur Sveinsson](https://app.xtensio.com/folio/k74cgdac)
+3. [Jakob Ingason](https://app.xtensio.com/folio/k7ascydh)
+4. [Jónas Benediktsson](https://app.xtensio.com/folio/axyljeg4)
