@@ -2,7 +2,7 @@
 layout: post
 title: "Reformer - Contextual Interviews"
 date: 2016-09-18 14:55:00 +0000
-categories: autistic-children visions
+categories: project2 contextual_interviews
 ---
 
 # Reformer - Contextual Interviews
