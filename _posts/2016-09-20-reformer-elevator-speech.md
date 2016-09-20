@@ -13,8 +13,8 @@ categories: project2 elevator_speech
 
 **The** Reformer is a accessibility toolkit 
 
-**That** reformats and reconstructs the text 
+**That** reformats the font and background to make the text more readable, reconstructs the sentences with simpler alternatives and fixes both grammar and spelling errors
 
 **Unlike** OpenDyslexic
 
-**Our Product** along with reformatting, it rephrases, reconstructs and fixes pre-existing text
+**Our Product** makes the web more accessable by fixing pre-existing text 
