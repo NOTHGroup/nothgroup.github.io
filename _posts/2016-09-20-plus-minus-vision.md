@@ -60,3 +60,24 @@ categories: project2 plus-minus
 
 * Could be hard to monetize
 * Uncertainty of a potential market
+
+
+**Blue Bongos**
+
+***PLUSES***
+
+
+* Simple to monitize with in app-purchases 
+* Provides great assistance to autistic children
+* Easy to add new games 
+* Easy to view progress
+
+
+***MINUSES***
+
+
+* Games needs to be based on research instead of anecdotal evidence
+* Requires a special device
+
+
+
