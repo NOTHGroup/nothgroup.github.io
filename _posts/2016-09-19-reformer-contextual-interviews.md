@@ -42,3 +42,10 @@ Next up we introduced our competitive software, OpenDyslexic and used that on th
 Results were pretty good, because it took her 17% shorter time to read the second article and she scored 20% better on the quiz.
 We then asked her if there was anything she could think about that would make it better, and talked about the project for a while. 
 After the discussion we wrapped up and thanked her for participating.
+
+### Interview 4
+I spoke to a friend who is is studying graphical and game design. We had to chat through Skype because the interviewee is currently studying in England.
+Because this couldn’t be a contextual interview I had a basic list of questions I wanted to ask. The questions were designed to be open and spark a conversation so we could talk about the issues and about his work in a nonlinear way. 
+The questions were mainly about him as a person to get a good feel of the user with a few questions directly about the problems that he faces.
+When the Skype chat started we talked a little bit about the project and the idea we were working on and after a little bit of chatting I began to ask the questions from the list.
+I wrote down a few interesting points I could catch from the answer and would make a followup question depending on the points I wrote down. Finally I would clarify how I understood the answer he gave me in on sentence and ask him to clarify if I got something wrong.
