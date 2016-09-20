@@ -73,4 +73,13 @@ permalink: /Projects/
       {% endif %}
     {% endfor %}
   </ul>
+  
+      <b>ReFormer: Affinity Diagram</b>
+    <ul class="post-list">
+      {% for post in site.posts %}
+          {% if post.categories contains 'project2' and post.categories contains 'affinity' %}
+          <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>
