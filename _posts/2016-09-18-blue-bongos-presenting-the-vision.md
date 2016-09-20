@@ -2,7 +2,7 @@
 layout: post
 title:  "Blue Bongos - Presenting The Vision"
 date:   2016-09-18 14:55:00 +0000
-categories: autistic-children visions
+categories: autistic-children vision project2
 ---
 
 # Blue Bongos - Presenting The Vision
