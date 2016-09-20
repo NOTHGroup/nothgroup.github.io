@@ -9,9 +9,10 @@ categories: autistic-children competitors
 
 Proloquo2Go is a symbol-supported communication app, designed to increase communication skills and language development.
 
-###Strengths and Weaknesses
+### Strengths and Weaknesses
 
 **Strenghts**
+
 
 - Supports individuals of all levels
 - Is backed by research
@@ -23,11 +24,12 @@ Proloquo2Go is a symbol-supported communication app, designed to increase commun
 
 **Weaknesses**
 
+
 - Very expensive (USD 309.99) 
 - Not state of the art UI Design
 - Supports few locales, only English and Spanish
 
-###Further Information
+### Further Information
 [App Store link](https://itunes.apple.com/is/app/proloquo2go-symbol-based-aac/id308368164?mt=8&ign-mpt=uo=4)
 
 [Developer's website](http://www.assistiveware.com/product/proloquo2go)
