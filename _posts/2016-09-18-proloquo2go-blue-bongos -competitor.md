@@ -2,7 +2,7 @@
 layout: post
 title:  "Proloquo2Go - Blue Bongos Competitor"
 date:   2016-09-18 16:55:00 +0000
-categories: autistic-children competitors
+categories: autistic-children competitors project2
 ---
 
 # Proloquo2Go -  A Blue Bongos Competitor 
