@@ -47,5 +47,13 @@ permalink: /Projects/
       {% endif %}
     {% endfor %}
   </ul>
+    <b>Detailed User Groups</b>
+    <ul class="post-list">
+      {% for post in site.posts %}
+          {% if post.categories contains 'project2' and post.categories contains 'user-groups-detailed' %}
+          <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 
 </div>
