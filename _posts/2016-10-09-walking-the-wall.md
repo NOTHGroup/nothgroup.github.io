@@ -1,4 +1,4 @@
-: ---
+--: ---
 layout: post
 title:  "[WIP] ReFormer - Walking The Wall"
 date:   2016-10-09 10:21:59 +0000
@@ -16,14 +16,14 @@ There is little to say about the actual session. Except for one or two questions
 
 - List of design ideas.
 
-*Easy tutorial
-*Hovering settings menu
-*bookmark where you were on a sertain page
-*explain complex words
-*coding definitions
-*make your own notes
-*make your own summary
-*support Word
-*buy full program as well
-*set up your own preferences for sites and more
-*help find complex words when writing
+- Easy tutorial
+- Hovering settings menu
+- bookmark where you were on a sertain page
+- explain complex words
+- coding definitions
+- make your own notes
+- make your own summary
+- support Word
+- buy full program as well
+- set up your own preferences for sites and more
+- help find complex words when writing
