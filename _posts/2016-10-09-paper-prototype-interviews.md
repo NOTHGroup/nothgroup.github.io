@@ -30,7 +30,7 @@ We conducted the first interview at the Reykjavik University Library. Interviewe
 
 
 ### Result 2
-
+![interview 1](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/interview2.jpg)
 We conducted the second interview at the Reykjavík University Cafeteria. Interviewee 2 completed all the task within a few minutes, but there was a slight problem as we had to go over how the interview worked after we started and explain further how to navigate the prototype and solve the tasks. Again the hardest task was to highlight and right click to generate a summary.
 
 ## Interview 3
