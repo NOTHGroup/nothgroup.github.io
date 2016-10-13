@@ -23,11 +23,15 @@ Finally we wanted to test the customization the app offers and asked the intervi
 
 After the interviewee finished the tasks we asked him about his experience using the app and thanked him for his participation.
 
-### Results 1
+### Result 1
 ![interview 1](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/interview1.jpg)
 
 We conducted the first interview at the Reykjavik University Library. Interviewee 1 completed all the tasks in a matter of few minutes, without any problems. He found it easy to discover how the features worked and liked hovering over for definitions. The only problem that halted his quick progress was that he had to highlight and right click to generate a summary.
-## Interview 2
+
+
+### Result 2
+
+We conducted the second interview at the Reykjavík University Cafeteria. Interviewee 2 completed all the task within a few minutes, but there was a slight problem as we had to go over how the interview worked after we started and explain further how to navigate the prototype and solve the tasks. Again the hardest task was to highlight and right click to generate a summary.
 
 ## Interview 3
 
