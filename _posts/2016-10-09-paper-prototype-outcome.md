@@ -5,7 +5,7 @@ date:   2016-10-09 13:40:53 +0000
 categories: project3 paper-prototype
 ---
 
-** Interview outcome
+### Interview outcome
 
 The paper prototype interviews went really well with the interviewees.
 Although most of them had problems with task 2: generate a summary of longer text.
