@@ -30,3 +30,7 @@ We conducted the second interview at the Reykjavík University Cafeteria. Interv
 The third interview was cunducted in Sólin in RU. The interviewee was reletively quick with all the tasks but stumbled a little bit when it came to finding a summery for some text. The feature is not obvious and it took him some time for him think of it. Otherwise the interview worked smoothly.
 
 ## Interview 4
+![interview 4](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/interview4.jpg)
+The fourth interview was conducted at a members house. The interviewee was really quick with all the tasks.
+Had no problems whatsover, though other interviewers were stumbling on task 2 which is to generate a summary of longer
+text. The interviewee did it with ease.
