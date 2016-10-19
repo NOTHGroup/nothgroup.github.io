@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[WIP] ReFormer - Paper Prototype Interviews"
+title:  "ReFormer - Paper Prototype Interviews"
 date:   2016-10-09 12:40:53 +0000
 categories: project3 paper-prototype
 ---
