@@ -5,8 +5,6 @@ date:   2016-10-31 21:21:59 +0000
 categories: project4 testprep
 ---
 
-[Affinity Diagram](http://mur.al/m3P4VxOW)
-
 ### Introduction
 
 We are 4 students making a software called ReFormer. Which is a software that helps people reading text on web pages. We are aiming for dyslexic people and people with reading impairment. The software is an extension in a web browser and it can change the text formatting of any text on a given page.
