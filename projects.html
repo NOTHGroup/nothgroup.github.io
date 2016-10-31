@@ -5,7 +5,14 @@ permalink: /Projects/
 ---
 
 <div class="home">
-
+  <h1 class="page-heading">Project 4</h1>
+      <ul class="post-list">
+    {% for post in site.posts %}
+        {% if post.categories contains 'project4'%}
+        <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
   <h1 class="page-heading">Project 3</h1>
   
   <b>Slides<b>
@@ -13,13 +20,6 @@ permalink: /Projects/
   <br>  
   <b>Story Map</b>
 
-    <ul class="post-list">
-    {% for post in site.posts %}
-        {% if post.categories contains 'project4'%}
-        <li><span>{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
   <ul class="post-list">
       {% for post in site.posts %}
           {% if post.categories contains 'project3' and post.categories contains 'story-map' %}
