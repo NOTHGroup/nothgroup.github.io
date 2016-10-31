@@ -7,7 +7,7 @@ categories: project4 testprep
 
 ### Introduction
 
-We are 4 students making a software called ReFormer. Which is a software that helps people reading text on web pages. We are aiming for dyslexic people and people with reading impairment. The software is an extension in a web browser and it can change the text formatting of any text on a given page.
+We are 4 students making a software called ReFormer, which is a software that helps people reading text on web pages. We are aiming for dyslexic people and people with reading impairment. The software is an extension in a web browser and it can change the text formatting of any text on a given page.
 
 We would be delightful if you can take about 20 minutes of your time to take two questionnaires and six tasks. This is a formal user observation.
 
@@ -27,11 +27,11 @@ Do not hesitate to ask if you have any questions.You will also have support mate
 #### Tasks
 
 * Turn on the ReFormer
-* Change the font to font2
+* Change the font to another font
 * Change the font size to your preferred settings
 * Change the background to white
 * Highlight a block of text and generate a summary
-* Go to subscription
+* Go to account
 
 #### Post-evaluation questionnaire
 
