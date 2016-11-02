@@ -9,11 +9,11 @@ categories: project4 usertest
 
 ### Photos
 
-![Student 2](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/student2-1.jpg)
+![Student 2](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/student2-1.jpg =100x20)
 
-![Student 2](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/Student2-2.jpg)
+![Student 2](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/Student2-2.jpg =200x50)
 
-![Student 2](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/Student2-3.jpg)
+![Student 2](https://raw.githubusercontent.com/NOTHGroup/nothgroup.github.io/master/image/Student2-3.jpg =80x20)
 
 ### Description of how each user testing was conducted 
 
