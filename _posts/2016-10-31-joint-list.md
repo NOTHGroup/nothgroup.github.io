@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ReFormer - User Testing"
+title:  "ReFormer - Joint List"
 date:   2016-10-31 22:15:59 +0000
 categories: project4 jointlist
 ---
