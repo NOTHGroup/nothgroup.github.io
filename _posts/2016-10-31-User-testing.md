@@ -38,3 +38,12 @@ There was literally no feedback from this user.
 
 
 
+#### Student 3
+
+Misunderstood task 1 by clicking on language instead of reformer. Everything else went very well
+and the interviewee was really pleased with our software.
+
+#### Student 4
+
+Had problems with task 1 and misunderstood the task. However everything went great and was
+pleased with the interview and our concept.
