@@ -25,8 +25,8 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 |:---------:	|:---------:	|:------:	|:------------------:	|:----------------------------:	|:------------:	|
 | Student 1 	|     x     	| 30 sec 	|          7         	|               2              	|       2      	|
 | Student 2 	|     x     	| 20 sec 	|          5         	|               1              	|       4      	|
-| Student 3 	|           	|        	|                    	|                              	|              	|
-| Student 4 	|           	|        	|                    	|                              	|              	|
+| Student 3 	|     x      	| 23 sec    |          7          	|               1               	|       4       	|
+| Student 4 	|     x      	| 20 sec    |          6          	|               1               	|       5       	|
 
 #### 2.
 
