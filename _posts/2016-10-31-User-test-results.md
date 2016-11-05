@@ -11,9 +11,9 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 
 #### 1.
 
-* It takes a user 20 seconds to change the font to another font
-* 95% of users will finish changing the font to another font
-* Users will grade their satisfaction for changing the font to another font above 4 on average on a scale from 1-5
+* It takes a user 20 seconds to change the font to another font -- **Failed**
+* 95% of users will finish changing the font to another font -- **Success**
+* Users will grade their satisfaction for changing the font to another font above 4 on average on a scale from 1-5 -- **Failed**
 
 
 | Usability factor 	| Data collected                    	| Worst Case   	| Preferred Case 	| Best Case     	| Value Now 	|
@@ -32,9 +32,9 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 #### 2.
 
 
-* It takes a user 15 seconds to change the background to white
-* 90% of users will finish changing the background to white
-* Users will grade their satisfaction for changing the background to white above 4 on average on a scale 1-5
+* It takes a user 15 seconds to change the background to white -- **Success**
+* 90% of users will finish changing the background to white -- **Success**
+* Users will grade their satisfaction for changing the background to white above 4 on average on a scale 1-5 -- **Success**
 
 
 | Usability factor 	| Data collected                    	| Worst Case   	| Preferred Case 	| Best Case     	| Value Now 	|
@@ -53,9 +53,9 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 #### 3. 
 
 
-* It takes a user 10 seconds to highlight a block of text and generate a summary
-* 80% of users will finish highlighting a block of text and generate a summary
-* Users will grade their satisfaction for highlighting a block of text and generate a summary above 3 on average on a scale 1-5
+* It takes a user 10 seconds to highlight a block of text and generate a summary -- **Success**
+* 80% of users will finish highlighting a block of text and generate a summary -- **Success**
+* Users will grade their satisfaction for highlighting a block of text and generate a summary above 3 on average on a scale 1-5 -- **Success**
 
 
 | Usability factor 	| Data collected                    	| Worst Case   	| Preferred Case 	| Best Case     	| Value Now 	|
