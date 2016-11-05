@@ -78,6 +78,7 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 
 * Average score on the question below is 4 or greater
     * How well or poorly, on the scale 1-5 has ReFormer enhanced your reading abilities?
+    
 **Goal succeeded: 4,5**
 
 * Average score on the question below is at least 4,5
