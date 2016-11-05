@@ -18,8 +18,9 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 
 | Usability factor 	| Data collected                    	| Worst Case   	| Preferred Case 	| Best Case     	| Value Now 	|
 |------------------	|-----------------------------------	|--------------	|----------------	|---------------	|-----------	|
-| Efficiency       	| Time for changing to another font 	| 1 minute     	| 20 seconds     	| 10 seconds    	| x         	|
-| Effectiveness    	| Finished tasks                    	| 65% finished 	| 95% finished   	| 100% finished 	| x         	|
+| Efficiency       	| Time for changing to another font 	| 1 minute     	| 20 seconds     	| 10 seconds    	| 23 seconds   |
+| Effectiveness    	| Finished tasks                    	| 65% finished 	| 95% finished   	| 100% finished 	| 100% finished|
+
 
 |           	| Completed 	|  Time  	| Number of commands 	| Number of  misunderstandings 	| Satisfaction 	|
 |:---------:	|:---------:	|:------:	|:------------------:	|:----------------------------:	|:------------:	|
@@ -38,8 +39,8 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 
 | Usability factor 	| Data collected                    	| Worst Case   	| Preferred Case 	| Best Case     	| Value Now 	|
 |------------------	|-----------------------------------	|--------------	|----------------	|---------------	|-----------	|
-| Efficiency       	| Time for changing to another font 	| 30 seconds   	| 15 seconds     	| 10 seconds    	| x         	|
-| Effectiveness    	| Finished tasks                    	| 70% finished 	| 90% finished   	| 100% finished 	| x         	|
+| Efficiency       	| Time for changing to another font 	| 30 seconds   	| 15 seconds     	| 10 seconds    	| 13 seconds   |
+| Effectiveness    	| Finished tasks                    	| 70% finished 	| 90% finished   	| 100% finished 	| 100% finished|
 
 |           	| Completed 	|  Time  	| Satisfaction 	|
 |:---------:	|:---------:	|:------:	|:------------:	|
@@ -59,8 +60,8 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 
 | Usability factor 	| Data collected                    	| Worst Case   	| Preferred Case 	| Best Case     	| Value Now 	|
 |------------------	|-----------------------------------	|--------------	|----------------	|---------------	|-----------	|
-| Efficiency       	| Time for changing to another font 	| 1 minute   	| 10 seconds     	| 5 seconds    	| x         	|
-| Effectiveness    	| Finished tasks                    	| 50% finished 	| 80% finished   	| 100% finished 	| x         	|
+| Efficiency       	| Time for changing to another font 	| 1 minute   	| 10 seconds     	| 5 seconds    	   | 7 seconds    |
+| Effectiveness    	| Finished tasks                    	| 50% finished 	| 80% finished   	| 100% finished 	| 100% finished|
 
 
 |           	| Completed 	|  Time  	| Satisfaction 	|
