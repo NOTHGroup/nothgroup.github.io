@@ -72,14 +72,19 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 | Student 4 	|     Y      	| 5 sec  |       5       	|
 
 
-### User experience
 
+
+### User experience
 
 * Average score on the question below is 4 or greater
     * How well or poorly, on the scale 1-5 has ReFormer enhanced your reading abilities?
+**Goal succeeded: 4,5**
+
 * Average score on the question below is at least 4,5
     * How easy or difficult, on the scale 1-5 was it for you to change the font size to your preferred settings?
+**Goal succeeded: 5**
+
 * Average score on the question below is at least 4
     * How likely or unlikely, on the scale 1-5 would you recommend others to use ReFormer?
-
+**Goal succeeded: 4,75**
 
