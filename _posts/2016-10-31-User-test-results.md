@@ -24,10 +24,10 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 
 |           	| Completed 	|  Time  	| Number of commands 	| Number of  misunderstandings 	| Satisfaction 	|
 |:---------:	|:---------:	|:------:	|:------------------:	|:----------------------------:	|:------------:	|
-| Student 1 	|     x     	| 30 sec 	|          7         	|               2              	|       2      	|
-| Student 2 	|     x     	| 20 sec 	|          5         	|               1              	|       4      	|
-| Student 3 	|     x      	| 23 sec    |          7          	|               1               	|       4       	|
-| Student 4 	|     x      	| 20 sec    |          6          	|               1               	|       5       	|
+| Student 1 	|     Y     	| 30 sec 	|          7         	|               2              	|       2      	|
+| Student 2 	|     Y     	| 20 sec 	|          5         	|               1              	|       4      	|
+| Student 3 	|     Y      	| 23 sec    |          7          	|               1               	|       4       	|
+| Student 4 	|     Y      	| 20 sec    |          6          	|               1               	|       5       	|
 
 #### 2.
 
@@ -46,8 +46,8 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 |:---------:	|:---------:	|:------:	|:------------:	|
 | Student 1 	|     Y     	| 16 sec 	|       5      	|
 | Student 2 	|     Y     	| 12 sec 	|       5      	|
-| Student 3 	|           	|        	|              	|
-| Student 4 	|           	|        	|              	|
+| Student 3 	|     Y      	| 10 sec   	|       5        	|
+| Student 4 	|     Y      	| 12 sec   	|       5       	|
 
 
 #### 3. 
@@ -68,8 +68,8 @@ All goals are predicted to be measured in low-fi prototype, therefore the time m
 |:---------:	|:---------:	|:------:	|:------------:	|
 | Student 1 	|     Y     	| 8 sec 	|       5      	|
 | Student 2 	|     Y     	| 9 sec 	|       5      	|
-| Student 3 	|           	|        	|              	|
-| Student 4 	|           	|        	|              	|
+| Student 3 	|     Y      	| 6 sec 	|       5       	|
+| Student 4 	|     Y      	| 5 sec  |       5       	|
 
 
 ### User experience
